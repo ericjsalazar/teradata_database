@@ -13,7 +13,7 @@ If not, recommendation is to [add python to PATH](https://datatofish.com/add-pyt
 <br/>
 To install the package, type the following within command line/terminal:
 ```
-python -m pip install git+https://dev.azure.com/AmericanGreetings/Analytics/_git/teradata_database
+python -m pip install git+https://github.com/ericjsalazar/teradata_database
 ```
 
 ## Using the package to connect to Teradata
